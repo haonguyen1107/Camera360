@@ -1,0 +1,6 @@
+# Camera360
+camera360 photoshop
+Camera 360 is no longer strange to women because they always need to be beautiful in all cases, or they will have photos to live virtual with friends. Application development promises a very potential and error-free market.
+When developing 360 camera group, there were two directions to meet the most basic functions of the application, including:
+Filter images: use filters such as smoothing, translucent mosaic, increasing brightness, creating color images, ...
+Attaching stickers: includes the functions to create sparkling and beautiful pictures such as creating snowy backgrounds, attaching masks, attaching stickers, ...
